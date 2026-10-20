@@ -49,3 +49,9 @@ decision.md
 design.md
 .agents/
 graphify-out/
+
+# System & temporary files
+*.tmp
+*.swp
+*.pyc
+.env.local
